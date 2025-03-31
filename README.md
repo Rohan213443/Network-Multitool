@@ -1,3 +1,7 @@
+NOTE FOR CONTRIBUTERS: The IPS grabber used to work but now doesn't
+and I need a good way to get the host name so the Remote Shutdown works feel free to change the code as much as you want 
+to make it work!
+
 Rohan's Multi-Tool
 Rohan's Multi-Tool is a versatile network and system administration utility designed to help with tasks like network scanning, remote shutdown of Windows and Mac devices, and retrieving system information of devices on your network. It offers a range of features for both enthusiasts and administrators to manage and interact with devices on their local network.
 
